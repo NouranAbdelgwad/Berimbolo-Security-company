@@ -10,7 +10,5 @@ develop their new website.
 
 ## My work
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/NouranAbdelgwad/Berimbolo-Security-company/blob/main/u6_v2%20-%20Made%20with%20Clipchamp_1715362192544.mp4)
-
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/Open-Hands-Network/Laravel-Project/assets/138615256/d0e7f8b4-f725-4aa8-89b9-98ffb7f8de80)
+https://github.com/user-attachments/assets/466d6723-5db1-49dc-83a9-035bc07edb8b
 
