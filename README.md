@@ -9,5 +9,5 @@ own website. You work for the web-development company that has been hired plan a
 develop their new website.
 
 ## My work
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)(https://github.com/NouranAbdelgwad/Berimbolo-Security-company/blob/main/u6_v2%20-%20Made%20with%20Clipchamp_1715362192544.mp4)]
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/NouranAbdelgwad/Berimbolo-Security-company/blob/main/u6_v2%20-%20Made%20with%20Clipchamp_1715362192544.mp4)
 
