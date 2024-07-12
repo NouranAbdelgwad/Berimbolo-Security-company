@@ -12,3 +12,7 @@ develop their new website.
 
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://github.com/NouranAbdelgwad/Berimbolo-Security-company/blob/main/u6_v2%20-%20Made%20with%20Clipchamp_1715362192544.mp4)
 
+<video width="640" height="360" controls>
+  <source src="https://github.com/NouranAbdelgwad/Berimbolo-Security-company/blob/main/u6_v2%20-%20Made%20with%20Clipchamp_1715362192544.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
